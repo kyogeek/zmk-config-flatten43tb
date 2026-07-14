@@ -43,7 +43,7 @@ layers:
   - {t: '&to_layer_0 INT_MUHENKAN', h: ARROW}
   - BACKSPACE
   - {t: ENTER, h: FUNCTION}
-  - DEL
+  - {t: BT, h: '0'}
   FUNCTION:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -87,7 +87,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - F12
+  - BT CLR ALL
   NUM:
   - '-'
   - KP 7
